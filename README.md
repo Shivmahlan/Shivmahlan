@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shiv Mahlan, a Second-year BTech Computer Science and Engineering student .<br>I have a passion for Data Science, Machine learning, Cloud Computing, Artificial Intelligence and App Development.<br>I love creating innovative applications that make a difference.<br>When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and participating in hackathons.<br>I’m also passionate about contributing to open-source projects and learning more about the latest advancements in AI, Machine Learning, Cyber Security, and Quantum computing.
+I'm Shiv Mahlan, a Third-year BTech Computer Science and Engineering student .<br>I have a passion for Data Science, Machine learning, Cloud Computing, Artificial Intelligence and App Development.<br>I love creating innovative applications that make a difference.<br>When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and participating in hackathons.<br>I’m also passionate about contributing to open-source projects and learning more about the latest advancements in AI, Machine Learning, Cyber Security, and Quantum computing.
 
 
 ## 🌐 Socials:
